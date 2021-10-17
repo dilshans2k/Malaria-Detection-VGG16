@@ -19,4 +19,4 @@ Deployed at https://malaria-disease-predictor.herokuapp.com/
 :-------------------------:|:-------------------------:
 ![](results/acc.png)       | ![](results/loss.png)
 
-![](readmefiles/Annotation 2021-10-17 225146.png)
+![](![image](https://user-images.githubusercontent.com/67574348/137638192-302897f3-0d95-4051-8b62-419d3df15f3a.png))
