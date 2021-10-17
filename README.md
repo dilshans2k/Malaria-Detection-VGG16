@@ -1,5 +1,5 @@
 # Malaria-Detection-VGG16
-Using State-of-the-Art VGG16 model, Malaria can be detected from segmented cells from the thin blood smear slide images
+Using State-of-the-Art VGG16 model, Malaria can be detected from segmented cells from the thin blood smear slide images and achieved 88% accuracy.
 
 The dataset contains 2 folders
 - Infected
